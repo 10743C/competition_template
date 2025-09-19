@@ -1,1 +1,4 @@
 Empty Competition Template for VEXV5
+
+# Important:
+Must be ran in VS or a code editor that supports the plugin, otherwise we can't compile it for the brain.
