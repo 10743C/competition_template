@@ -1,1 +1,1 @@
-Readme file example
+Empty Competition Template for VEXV5
